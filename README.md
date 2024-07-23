@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I'm Mariam Samir! 
+  Hello, I'm Zeina Seif! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
